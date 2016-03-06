@@ -1,1 +1,33 @@
+.header 
+{
+	width: 100%;
+}
 
+.today-wrapper 
+{
+	width: 60%;
+}
+
+.section-titles
+{
+	font-size: 20px;
+	color: #A82931; 
+	text-align: left; 
+	font-family: Georgia; 
+	margin-left: 15px;
+}
+
+hr 
+{ 
+	border-top: 2px solid #a82931;
+	
+}
+
+.today-titles 
+{
+	margin-left: 15px;
+    font-family: Colaborate;
+    font-weight: 500;
+    font-size: 15px;
+    padding-top: 10px;
+}
