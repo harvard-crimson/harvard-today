@@ -1,0 +1,34 @@
+
+.sections 
+{
+    width: 60%;
+    clear: both;
+}
+
+.section-titles
+{
+	font-size: 20px;
+	color: #A82931; 
+	text-align: left; 
+	font-family: Georgia; 
+	margin-left: 15px;
+}
+
+hr 
+{ 
+	border-top: 2px solid #a82931;
+	margin-top: 5px; 
+	
+}
+
+
+.section-body 
+{
+	width: 75%;
+	margin-left: 15px; 
+    padding-top: 15px;
+    padding-bottom: 60px;
+    display: block;
+	float: left;
+	font-size: 15px;
+}
