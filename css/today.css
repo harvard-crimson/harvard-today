@@ -20,14 +20,34 @@
 hr 
 { 
 	border-top: 2px solid #a82931;
+	margin-top: 5px; 
 	
 }
 
 .today-titles 
 {
-	margin-left: 15px;
     font-family: Colaborate;
-    font-weight: 500;
+    font-weight: bold;
     font-size: 15px;
-    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.today-body 
+{
+	width: 25%;
+	margin-left: 10%; 
+    padding-top: 15px;
+    display: block;
+	float: left;
+	font-size: 15px;
+}
+
+.weather 
+{
+	width: 30%;
+	margin-left: 15px; 
+    padding-top: 15px;
+    display: block;
+	float: left;
+	font-size: 15px;
 }
